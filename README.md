@@ -272,11 +272,3 @@ Once loaded in your browser (`http://localhost:8501`), test the following core s
 
 
 * The NVIDIA Vision model describes the item and extracts key search terms, which the agent then uses to search the database and present recommendations.
-
-
-
-
-
-```
-
-```
