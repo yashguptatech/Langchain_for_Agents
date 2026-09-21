@@ -26,4 +26,8 @@ dependencies = [
     "langchain-text-splitters>=1.1.2",
     "pillow>=12.2.0",
     "torchvision>=0.27.0",
+    "tavily-python>=0.7.13",
+    "tavily>=1.1.0",
+    "ipywidgets>=8.1.8",
+    "sounddevice>=0.5.3",
 ]
